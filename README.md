@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=JaeHyun's GitHub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=JaeHyun's_GitHub%20render&fontSize=90)
 
 
 <!--
